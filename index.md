@@ -12,6 +12,7 @@ I'm a principal scientist at <a href="http://www.imr.no">Institute of Marine Res
 My background is as a marine mammal biologist (PhD in 2002), but I have since 2002 been  developing ecosystem-based science and management (EBM) through leading the Barents Sea ecosystem surveys ('05-'07) and contributing to the Norwegian Integrated Management plans for the Lofoten - Barents Sea ('06), the Norwegian Sea ('09) and the Skagerrak - North Sea ('13). </br></br>
 Developing ecosystem-based marine spatial planning (MSP) has been a cornerstone of my research since 2002 and has broadened my field of view. Successful ecosystem-based management requires comprehensive and relevant science and quantitative tools (eg. Ecosystem model - <a href="http://www.csiro.au/organisation-structure/divisions/marine--atmospheric-research/atlantis-ecosystem-model"> Atlantis </a>), as well as comprehensive and relevant governance. Understanding the interactions between the socio-cultural-economic system on one hand and the ecological science needed to support sound management is at the core of my current research. 
  
+</br>
 
 
 ### Research areas:
