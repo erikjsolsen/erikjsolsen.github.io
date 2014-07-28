@@ -5,7 +5,7 @@ title: Erik Olsen
 
 <img src="/assets/erik_ute.jpg" style="float: right;  width: 200px;  padding:0px 0px 0px 5px;"/>
 
-## About me 
+## About Erik 
 
 
 I'm a principal scientist at <a href="http://www.imr.no">Institute of Marine Research, Norway, </a> and currently working as a visiting scientist at <a href="http://nefsc.noaa.gov"> NOAA Northeast Fisheries Science Center</a> in Woods Hole MA, USA.</br> </br>
