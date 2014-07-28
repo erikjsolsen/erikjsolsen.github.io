@@ -1,7 +1,7 @@
 name: "Erik Olsen "
 description: "My first Jekyll site"
 
-url: "http://localhost:4000"
+url: "/ErikoWebPage"
 
 paginate: 10
 
