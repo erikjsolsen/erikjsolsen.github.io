@@ -42,10 +42,12 @@ Successful ecosystem-based management requires comprehensive and relevant scienc
 <li> Communication of risks of oil spills </li>
 </br>
 
-### Publications & pictures 
+### Publications, pictures & presentations
 
 <li><a href="http://scholar.google.no/citations?user=JbTaBZkAAAAJ">GoogleScholar listed publications </a> </li>
-<li><a href="https://www.flickr.com/photos/90745523@N06/"> Flicker photo stream  </a> </li>
+<li><a href="https://www.flickr.com/photos/90745523@N06/"> <img src="/assets/flickr.png" style="width: 25px"/>Flicker photo stream  </a> 
+<li><a href="http://prezi.com/your/"> <img src="/assets/prezi.png" style="width: 25px"/> Prezi online presentations</a>
+</li>
 </br>
 
 
