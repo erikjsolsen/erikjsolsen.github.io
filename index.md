@@ -17,9 +17,7 @@ Erik was deeply involved in the development and groundwork for implementing the 
 
 From 2009-2013 Erik was elected chair of the ICES Science Committee Steering Group on Human Interactions on the Ecosystem. He has chaired several workshops on Marine Spatial Planning as well as being a reviewer and counselor on these issues. </br>
 
-Erik is currently seconded to <a href="http://nefsc.noaa.gov"> NOAA Northeast Fisheries Science Center</a> in Woods Hole, Massachusetts, as  a visiting scientist, where he continues his research on developing the science base, tools and methods for ecosystem-based management and marine spatial planning.  
-
-Successful ecosystem-based management requires comprehensive and relevant science and quantitative tools (eg. Ecosystem model - <a href="http://www.csiro.au/organisation-structure/divisions/marine--atmospheric-research/atlantis-ecosystem-model"> Atlantis </a>), as well as comprehensive and relevant governance. Understanding the interactions between the socio-cultural-economic system on one hand and the ecological science needed to support sound management is at the core of my current research. </br>
+Erik is currently seconded to <a href="http://nefsc.noaa.gov"> NOAA Northeast Fisheries Science Center</a> in Woods Hole, Massachusetts, as  a visiting scientist, where he continues his research on developing the science base, tools and methods for ecosystem-based management and marine spatial planning.  This includes quantitative tools like the <a href="http://www.csiro.au/organisation-structure/divisions/marine--atmospheric-research/atlantis-ecosystem-model"> Atlantis </a>) ecosystem model, as well as studying how ecosystem-based governance varies globally. Understanding the interactions between the socio-cultural-economic system on one hand and the ecological science needed to support sound management is at the core of his current research. </br>
  
 
 
