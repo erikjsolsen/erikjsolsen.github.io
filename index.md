@@ -9,7 +9,7 @@ title: Erik Olsen
 
 
 
-Erik Olsen is a principal scientist at the <a href="http://www.imr.no">Institute of Marine Research, in Bergen, Norway, </a> where he has been working since 1999. Born in Sweden to a Norwegian and Swedish parents who worked extensively in developing countries Erik grew up and was educated in Bergen Norway, studying at the University of Bergen where he received a BSc in biology (1995), MSc in fisheries biology (1997) and a PhD in fisheries biology in (2002). </br>
+Erik Olsen is a principal scientist at the <a href="http://www.imr.no">Institute of Marine Research, in Bergen, Norway, </a> where he has been working since 1999. Born in Sweden to Norwegian and Swedish parents who worked extensively in developing countries Erik grew up and was educated in Bergen Norway, studying at the University of Bergen where he received a BSc in biology (1995), MSc in fisheries biology (1997) and a PhD in fisheries biology in (2002). </br>
 
 Since completing his PhD Erik has worked at the Institute of Marine Research (www.imr.no) as a scientist primarily on issues related to ecosystem-based monitoring, assessment and management. He has developed and lead the implementation of ecosystem surveys in the Barents sea jointly with the Russian scientists from PINRO, as well as transferring the concepts to developing nations like Mozambique and Sudan through surveys and development programs. </br>
 
