@@ -44,7 +44,7 @@ Erik is currently seconded to <a href="http://nefsc.noaa.gov"> NOAA Northeast Fi
 
 <li><a href="http://scholar.google.no/citations?user=JbTaBZkAAAAJ">GoogleScholar listed publications </a> </li>
 <li><a href="https://www.flickr.com/photos/90745523@N06/"> <img src="/assets/flickr.png" style="width: 25px"/>Flicker photo stream  </a> 
-<li><a href="http://prezi.com/your/"> <img src="/assets/prezi.png" style="width: 25px"/> Prezi online presentations</a>
+<li><a href="http://prezi.com/user/0s62vaqadnfw/"> <img src="/assets/prezi.png" style="width: 25px"/> Prezi online presentations</a>
 </li>
 </br>
 
