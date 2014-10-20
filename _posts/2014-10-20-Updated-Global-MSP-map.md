@@ -5,8 +5,7 @@ date:   2014-10-20 11:30:00
 categories: research blog
 ---
 
-Updated Global MSP map
-======================
+
 
 The [Global MSP map](http://erikjsolsen.github.io/research/blog/2014/10/02/Global-MSP-map/) I  posted in the beginning of October 2014 ago has been updated based on input from Charles Ehler. 
 
