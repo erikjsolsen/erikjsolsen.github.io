@@ -8,7 +8,7 @@ categories: research blog
 Updated Global MSP map
 ======================
 
-The [Global MSP map][http://erikjsolsen.github.io/research/blog/2014/10/02/Global-MSP-map/] I  posted in the beginning of October 2014 ago has been updated based on input from Charles Ehler. 
+The [Global MSP map](http://erikjsolsen.github.io/research/blog/2014/10/02/Global-MSP-map/) I  posted in the beginning of October 2014 ago has been updated based on input from Charles Ehler. 
 
 <img src="/assets/MSP_world_EEz_map_v2.jpg" style="float: center;  width: 800px;  padding:5px 5px 5px 5px;"/>
 
@@ -28,7 +28,7 @@ The [Global MSP map][http://erikjsolsen.github.io/research/blog/2014/10/02/Globa
 
 Methods
 -------
-For a full description of methods, see [original blog post][http://erikjsolsen.github.io/research/blog/2014/10/02/Global-MSP-map/]. 
+For a full description of methods, see [original blog post](http://erikjsolsen.github.io/research/blog/2014/10/02/Global-MSP-map/) 
 
 
 References
