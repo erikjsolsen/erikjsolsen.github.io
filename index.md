@@ -9,7 +9,7 @@ title: Erik Olsen
 
 
 
-Erik Olsen is a principal scientist at the <a href="http://www.imr.no">Institute of Marine Research, in Bergen, Norway, </a> where he has been working since 1999. Born in Sweden to Norwegian and Swedish parents who worked extensively in developing countries Erik grew up and was educated in Bergen, Norway. He studied at the University of Bergen where he received a BSc in biology (1995), MSc in fisheries biology (1997) and a PhD in fisheries biology in (2002). </br>
+Erik Olsen is the head of the <a href="http://www.imr.no/forskning/faggrupper/bunnfisk/en"> Demersal Fish Research group </a> at the <a href="http://www.imr.no">Institute of Marine Research, in Bergen, Norway, </a> where he has been working since 1999. Born in Sweden to Norwegian and Swedish parents who worked extensively in developing countries Erik grew up and was educated in Bergen, Norway. He studied at the University of Bergen where he received a BSc in biology (1995), MSc in fisheries biology (1997) and a PhD in fisheries biology in (2002). </br>
 
 Since completing his PhD Erik has worked as a scientist at the Institute of Marine Research primarily on issues related to ecosystem-based monitoring, assessment and management. He has developed and lead the implementation of ecosystem surveys in the Barents sea jointly with the Russian scientists from <a href="http://www.pinro.ru">PINRO</a>, as well as transferring the concepts to developing nations like Mozambique and Sudan through surveys and development programs. </br>
 
@@ -17,7 +17,9 @@ Erik was deeply involved in the development and groundwork for implementing the 
 
 From 2009-2013 Erik was elected chair of the <a href="http://www.ices.dk">ICES</a> Science Committee Steering Group on Human Interactions on the Ecosystem. He has chaired several workshops on Marine Spatial Planning as well as being a reviewer and counselor on these issues. </br>
 
-Erik is currently in Hobart, Australia, working at CSIRO,  on his way home to Norway after being seconded to <a href="http://nefsc.noaa.gov"> NOAA Northeast Fisheries Science Center</a> in Woods Hole, Massachusetts, as  a visiting scientist for two years. He continues his research on developing the science base, tools and methods for ecosystem-based management and marine spatial planning.  Key study areas are the use of quantitative tools like the <a href="http://www.csiro.au/organisation-structure/divisions/marine--atmospheric-research/atlantis-ecosystem-model"> Atlantis </a> ecosystem model, as well as analyzing how ecosystem-based governance varies globally. Understanding the interactions between the socio-cultural-economic system on one hand and the ecological science needed to support sound management is at the core of his current research. </br>
+From 2013 to 2015 Erik was working as a visiting scientist at the <a href="http://nefsc.noaa.gov"> NOAA Northeast Fisheries Science Center</a> in Woods Hole, Massachusetts where he continued development of the science base, tools (like the <a href="http://www.csiro.au/organisation-structure/divisions/marine--atmospheric-research/atlantis-ecosystem-model"> Atlantis </a> ecosystem model) and methods for ecosystem-based management and marine spatial planning.  </br>
+
+Linking core monitoring, stock-assessment and advisory activities with the development of ecosystem-based management and understanding how this science-based advice feeds into the socio-ecological systems we manage is the focus of Erik's current research. </br>
  
 
 
@@ -28,7 +30,6 @@ Erik is currently in Hobart, Australia, working at CSIRO,  on his way home to No
 <li> Spatial scenarios (eg. MSP - wind farms) using the Atlantis model </li>
 <li> Simulating  pollution events in ecosystem models </li>
 <li> Developing <a href="https://github.com/cddesjardins/R4Atlantis"> R4Atlantis </a> R-statistics package for interacting with Atlantis input and output
-
 
 #### Governance and advice
 <li> The science base of EBM and MSP </li>
