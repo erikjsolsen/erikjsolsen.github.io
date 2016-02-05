@@ -25,20 +25,27 @@ Linking core monitoring, stock-assessment and advisory activities with the devel
 
 ### Research areas:
 
+#### Reducing uncertainty in stock assessments
+<li>  Developing and implementing methods to estimat the sources and contributions of uncertainty in stock assessments </li>
+<li> Correction of survey bias and reduction of uncertainty in survey data </li>
+<li> Evaluation, testing and validation of long-term management strategies </li>
+<li> Communication of uncertainty and risk (also relevant to oil/gas, aquaculture etc) </li>
+
+
 #### Ecosystem models 
-<li> Skill assessment of the Northeast US Atlantis model </li>
+<li> [Skill assessment of the Northeast US Atlantis model](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146467) </li>
 <li> Spatial scenarios (eg. MSP - wind farms) using the Atlantis model </li>
 <li> Simulating  pollution events in ecosystem models </li>
-<li> Developing <a href="https://github.com/cddesjardins/R4Atlantis"> R4Atlantis </a> R-statistics package for interacting with Atlantis input and output
+<li> Developing and sharing [R-statistics functions and scripts for interacting with Atlantis input and output (through GitHub)](https://github.com/r4atlantis)
 
-#### Governance and advice
+#### Ecosystem-based management (EBM)
+<li> Developing and revising Norwegian marine EMBM and MSP </li>
 <li> The science base of EBM and MSP </li>
 <li> Role of experts and models in EBM </li>
-<li> Importance of culture in marine governance </li>
+<li> Importance of culture, [leadership and integration](http://erikjsolsen.github.io/research/blog/2014/10/09/MSPintegration/) in marine governance, management and MSP </li>
 
 #### Oil spill assessments and risk
 <li> Effects of spatial variability in survival on oil spill risk assessments</li>
-<li> Communication of risks of oil spills </li>
 </br>
 
 
