@@ -28,9 +28,9 @@ This is why I currently find myself onboard the R/V Johan Hjort, a 69m Norwegian
 
 So the winter survey in the Barents Sea is not only the best time to measure how much fish there is, it is also tremendously important for the multi-million-dollar fisheries operating in the Barents Sea. The fishing-boats operating here mainly come from Russia and Norway who share the Barents Sea 50-50, but there is also a smalle quota to third-party EU countries. Therefore, our scientific surveys here are of great importance to the fishing-sector of several countries, and all of us who're on the R/V Johan Hjort feel that responsibility and strive to deliver. 
 
-<img src="/assets/sunrise.jpg" style="float: center;  width: 600px;  padding:5px 5px 5px 5px;"/>
+<img src="/assets/greennlandhalibut.jpg" style="float: center;  width: 600px;  padding:5px 5px 5px 5px;"/>
 
-*Sunrise (almost, since the sun is still below the horizon) in the Barents Sea*
+*Grinning Greenland hailbut, one of the uglies (but tastiest) fish in the Barents Sea*
 
 Much has changed on the survey since the last millennium 
 --------------------------------------------------------
