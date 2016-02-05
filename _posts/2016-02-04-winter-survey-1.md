@@ -28,7 +28,7 @@ This is why I currently find myself onboard the R/V Johan Hjort, a  Norwegian re
 
 So the [winter survey in the Barents Sea](http://www.imr.no/tokt/toktomtaler/vintertoktet/nb-no) is the best survey to measure how much fish there is, making it tremendously important for the multi-million-dollar fisheries operating here. The fishing-boats operating in these waters mainly come from Russia and Norway who share the Barents Sea 50-50, but there is also a smalle quota to third-party EU countries. Therefore, our scientific surveys here are of great importance to the fishing-sector of several countries, and all of us who're on the R/V Johan Hjort and the other research vessels feel that responsibility and strive to deliver. 
 
-<img src="/assets/greennlandhalibut.jpg" style="float: center;  width: 600px;  padding:5px 5px 5px 5px;"/>
+<img src="/assets/greenlandhalibut.jpg" style="float: center;  width: 600px;  padding:5px 5px 5px 5px;"/>
 
 *Grinning Greenland hailbut, one of the uglies (but tastiest) fish in the Barents Sea*
 
