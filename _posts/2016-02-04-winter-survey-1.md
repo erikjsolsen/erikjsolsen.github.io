@@ -30,7 +30,7 @@ So the [winter survey in the Barents Sea](http://www.imr.no/tokt/toktomtaler/vin
 
 <img src="/assets/greenlandhalibut.jpg" style="float: center;  width: 600px;  padding:5px 5px 5px 5px;"/>
 
-*Grinning Greenland hailbut, one of the uglies (but tastiest) fish in the Barents Sea*
+*Grinning Greenland hailbut, one of the ugliest (but tastiest) fish in the Barents Sea*
 
 Much has changed on the survey since the last millennium 
 --------------------------------------------------------
