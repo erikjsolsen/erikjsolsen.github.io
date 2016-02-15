@@ -5,7 +5,7 @@ date:   2016-02-14 10:00:00
 categories: research blog
 ---
 
-##Back to the coast of Finnmark (Northern Norway)## 
+##Back to the coast of Finnmark (Northern Norway)
 
 
 <img src="/assets/rolvsoya.jpg" style="float: center;  width: 600px;  padding:5px 5px 5px 5px;"/>
@@ -18,12 +18,12 @@ Even though the sun is back, winter still keeps a strong hold, but here along th
 
 *The R/V Johan Hjort in Hammerfest harbor, Finnmark* 
 
-##Curious about the survey results##
+##Curious about the survey results
 
 Now that we're returning to shore after 21 days surveying the Barents Sea there is a lot of public curiosity about what we've observed on the survey.  But since the survey is far from over, and the results haven't been analyzed  they wont get any concrete answers. The R/V Johan Hjort continues the survey with a new scientific crew,  only to finish by March 16th. After the survey the data collected will be checked for quality, before being analyzed and discussed by the IMR and international scientists at the [ICES Arctic Fisheries Working Group][http://www.ices.dk/community/groups/Pages/AFWG.aspx] at its April meeting. At the working group meeting data from the fisheries, e.g. catch and landings data, and data from the winter survey (and other surveys) will be used as input to advanced statistical models to calculate the current size and age distribution of the fish stocks, and then to estimate the likely stock sizes in the future. From this the scientist can give advice on the fishing quota for the next year that is ecologically sustainable, ie. will ensure a longterm  healthy stock biomass. 
 
 
-##Cod and the ecosystem##
+##Cod and the ecosystem
 <img src="/assets/capelin1.jpg" style="float: center;  width: 600px;  padding:5px 5px 5px 5px;"/>
 
 *Juvenile capelin (Mallotus villosus), the most important forage fish (food for other fish, seabirds and marine mammals) in the Barents Sea*
