@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Land O'Hoy! Wintersurvey's end for my part"
+title:  "Land O'Hoy! Leaving the winter survey."
 date:   2016-02-14 10:00:00
 categories: research blog
 ---
