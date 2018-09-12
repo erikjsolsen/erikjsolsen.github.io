@@ -35,8 +35,8 @@ Linking core monitoring, stock-assessment and advisory activities with the devel
 
 
 #### Ecosystem models 
-<li> [Future oceans under ocean acidification, changes in fishing and marine protection] (https://www.frontiersin.org/articles/10.3389/fmars.2018.00064/full) </li>
-<li> [Skill assessment of the Northeast US Atlantis model](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146467) </li>
+<li> Exploring [Future oceans under ocean acidification, changes in fishing and marine protection] (https://www.frontiersin.org/articles/10.3389/fmars.2018.00064/full) </li>
+<li> Evaluting the performance of ecosystem models: [Skill assessment of the Northeast US Atlantis model](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146467) </li>
 <li> Spatial scenarios (eg. MSP - wind farms) using the Atlantis model </li>
 <li> Simulating  pollution events in ecosystem models </li>
 <li> Developing and sharing [R-statistics functions and scripts for interacting with Atlantis input and output (through GitHub)](https://github.com/r4atlantis)
