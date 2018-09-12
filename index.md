@@ -19,6 +19,8 @@ From 2009-2013 Erik was elected chair of the <a href="http://www.ices.dk">ICES</
 
 From 2013 to 2015 Erik was working as a visiting scientist at the <a href="http://nefsc.noaa.gov"> NOAA Northeast Fisheries Science Center</a> in Woods Hole, Massachusetts where he continued development of the science base, tools (like the <a href="http://www.csiro.au/organisation-structure/divisions/marine--atmospheric-research/atlantis-ecosystem-model"> Atlantis </a> ecosystem model) and methods for ecosystem-based management and marine spatial planning.  </br>
 
+Erik is currently contributing to the development of ecosystem-based management and integrated ecosystem assessments of marine ecosystems as co-chair of the <a href="http://www.ices.dk/community/groups/Pages/WGINOSE.aspx"> ICES Working Group on intetgrated assessment of the North Sea (WGINOSE) </a>. 
+
 Linking core monitoring, stock-assessment and advisory activities with the development of ecosystem-based management and understanding how this science-based advice feeds into the socio-ecological systems we manage is the focus of Erik's current research. </br>
  
 
@@ -33,6 +35,7 @@ Linking core monitoring, stock-assessment and advisory activities with the devel
 
 
 #### Ecosystem models 
+<li> [Future oceans under ocean acidification, changes in fishing and marine protection] (https://www.frontiersin.org/articles/10.3389/fmars.2018.00064/full) </li>
 <li> [Skill assessment of the Northeast US Atlantis model](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146467) </li>
 <li> Spatial scenarios (eg. MSP - wind farms) using the Atlantis model </li>
 <li> Simulating  pollution events in ecosystem models </li>
