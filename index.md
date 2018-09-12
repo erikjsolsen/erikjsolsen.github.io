@@ -35,17 +35,17 @@ Linking core monitoring, stock-assessment and advisory activities with the devel
 
 
 #### Ecosystem models 
-<li> Exploring [Future oceans under ocean acidification, changes in fishing and marine protection] (https://www.frontiersin.org/articles/10.3389/fmars.2018.00064/full) </li>
-<li> Evaluting the performance of ecosystem models: [Skill assessment of the Northeast US Atlantis model](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146467) </li>
+<li> Exploring <a href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00064/full"> Future oceans under ocean acidification, changes in fishing and marine protection </a> </li>
+<li> Evaluting the <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146467"> performance of ecosystem models: Skill assessment of the Northeast US Atlantis model </a></li>
 <li> Spatial scenarios (eg. MSP - wind farms) using the Atlantis model </li>
 <li> Simulating  pollution events in ecosystem models </li>
-<li> Developing and sharing [R-statistics functions and scripts for interacting with Atlantis input and output (through GitHub)](https://github.com/r4atlantis)
+<li> Developing and sharing <a href="https://github.com/r4atlantis"> R-statistics functions and scripts for interacting with Atlantis input and output (through GitHub) </a> </li>
 
 #### Ecosystem-based management (EBM)
 <li> Developing and revising Norwegian marine EMBM and MSP </li>
 <li> The science base of EBM and MSP </li>
 <li> Role of experts and models in EBM </li>
-<li> Importance of culture, [leadership and integration](http://erikjsolsen.github.io/research/blog/2014/10/09/MSPintegration/) in marine governance, management and MSP </li>
+<li> Importance of culture, <a href="http://erikjsolsen.github.io/research/blog/2014/10/09/MSPintegration/"> leadership and integration in marine governance, management and MSP </a></li>
 
 #### Oil spill assessments and risk
 <li> Effects of spatial variability in survival on oil spill risk assessments</li>
