@@ -5,13 +5,13 @@ date:   2019-02-21 10:00:00
 categories: research blog
 ---
 
-##Sudan’s coral reefs are gems in urgent need of comprehensive management and protection
 
-**__By: Erik Olsen and Even Moland__**
+**By: Erik Olsen and Even Moland**
 
 Sudan, with its 800 km Red Sea coastline, has an extensive coral reef ecosystem that is much less impacted by human activities than similar ecosystems elsewhere. These coral reefs are unique in terms of diversity, coral health and fish biomass, comparable only to that found on remote Pacific atolls.
 
 <img src="/assets/soft-coral.jpg" style="float: center;  width: 600px;  padding:5px 5px 5px 5px;"/>
+
 *Photo: J. Trinka, UNIDO*
 
 Sudan's coral reefs are particularly resilient to certain stressors due to its location in an arid region, with minimal run-off or river input, low human population numbers and the corals’ adaptation to a wide annual temperature range.
