@@ -36,9 +36,9 @@ Linking core monitoring, stock-assessment and advisory activities with the devel
 
 #### Ecosystem models 
 <li> Exploring <a href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00064/full"> Future oceans under ocean acidification, changes in fishing and marine protection </a> </li>
-<li> "Future oceans" is now also a research topic at [Frontiers in Marine Science](https://www.frontiersin.org/research-topics/8558/future-oceans-under-multiple-stressors-from-global-change-to-anthropogenic-impact). Submission deadline: ** 31st March 2019**
+<li> "Future oceans" is now also a research topic at <a href="https://www.frontiersin.org/research-topics/8558/future-oceans-under-multiple-stressors-from-global-change-to-anthropogenic-impact"> Frontiers in Marine Science </a> Submission deadline: ** 31st March 2019** </li>
 <li> Evaluting the <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146467"> performance of ecosystem models: Skill assessment of the Northeast US Atlantis model </a></li>
-<li> Spatial scenarios (eg. MSP - wind farms) using the Atlantis model </li>
+<li> Exploring the use of qualitative ecosystem models in Integrated Ecosystem Assessments </li>
 
 
 #### Ecosystem-based management (EBM)
