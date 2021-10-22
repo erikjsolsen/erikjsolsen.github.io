@@ -27,11 +27,9 @@ Linking core monitoring, stock-assessment and advisory activities with the devel
 
 ### Research areas:
 
-#### Reducing uncertainty in stock assessments
-<li>  Developing and implementing methods to estimat the sources and contributions of uncertainty in stock assessments </li>
-<li> Correction of survey bias and reduction of uncertainty in survey data </li>
-<li> Evaluation, testing and validation of long-term management strategies </li>
-<li> Communication of uncertainty and risk (also relevant to oil/gas, aquaculture etc) </li>
+#### Capacity building and providing a science based for marine managment in developing countries
+<li>The first large-scale mapping of <a href="https://www.sciencedirect.com/science/article/pii/S0165783621001600"> the distribution and diversity fo fish species along the Sudanese Red Sea coast  </a> </li>
+<li> Contributing to the running and dissemination of results from the <a href="https://www.fao.org/in-action/eaf-nansen/en/"> FAO EAF Nansen programme </a> </li>
 
 
 #### Ecosystem models 
