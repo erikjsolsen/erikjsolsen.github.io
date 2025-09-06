@@ -5,26 +5,49 @@ title: Erik Olsen
 
 <img src="/assets/erik_ute.jpg" style="float: right;  width: 200px;  padding:0px 0px 0px 5px;"/>
 
-## About Erik 
 
+# Dr. Erik Olsen
 
+**Head of Sustainable Development Research Group | Marine Scientist | Global Ocean Leader**
 
-Erik Olsen is the head of the <a href="https://www.hi.no/en/hi/forskning/research-groups-1/marine-research-in-developing-countries">  Sustainable Development Research Group </a> at the <a href="http://www.imr.no">Institute of Marine Research, in Bergen, Norway, </a> where he has been working since 1999. Born in Sweden to Norwegian and Swedish parents who worked extensively in developing countries Erik grew up and was educated in Bergen, Norway. He studied at the University of Bergen where he received a BSc in biology (1995), MSc in fisheries biology (1997) and a PhD in fisheries biology in (2002).
+Dr. Erik Olsen leads the [Sustainable Development Research Group](https://www.hi.no/en/hi/forskning/research-groups-1/marine-research-in-developing-countries) at the [Institute of Marine Research, Bergen, Norway](http://www.imr.no/), where he has been advancing marine science and sustainable ocean management since 1999. Born in Sweden to Norwegian and Swedish parents who worked extensively in developing countries, Erik grew up and was educated in Bergen, Norway.
 
-Since completing his PhD Erik has worked as a scientist at the Institute of Marine Research primarily on issues related to ecosystem-based monitoring, assessment and management. He has developed and lead the implementation of ecosystem surveys in the Barents sea jointly with the Russian scientists from <a href="http://www.pinro.ru">PINRO</a>, as well as transferring the concepts to developing nations like Mozambique and Sudan through surveys and development programs. 
+## Academic Foundation
 
-Erik was deeply involved in the development and groundwork for implementing the Norwegian <a href="http://www.regjeringen.no/en/dep/kld/Selected-topics/department-for-marine-management-and-pol/havforvaltning/integrated-management-of-the-barents-sea.html?id=87148">Integrated Management plans, first for the  Barents sea</a>, then the Norwegian sea and finally the North Sea. This groundbreaking work in implementing ecosystem-based marine spatial planning has caught worldwide attention and Erik has been an invited speaker to present the Norwegian planning efforts and its scientific base at both scientific and government meetings (e.g. the United Nations). 
+Erik's academic journey at the University of Bergen includes a BSc in biology (1995), MSc in fisheries biology (1997), and PhD in fisheries biology (2002), with his doctoral research focusing on innovative age determination methods for minke whales.
 
-From 2009-2013 Erik was elected chair of the <a href="http://www.ices.dk">ICES</a> Science Committee Steering Group on Human Interactions on the Ecosystem. He has chaired several workshops on Marine Spatial Planning as well as being a reviewer and counselor on these issues. 
+## Research Leadership & Global Impact
 
-From 2013 to 2015 Erik was working as a visiting scientist at the <a href="http://nefsc.noaa.gov"> NOAA Northeast Fisheries Science Center</a> in Woods Hole, Massachusetts where he continued development of the science base, tools (like the <a href="http://www.csiro.au/organisation-structure/divisions/marine--atmospheric-research/atlantis-ecosystem-model"> Atlantis </a> ecosystem model) and methods for ecosystem-based management and marine spatial planning. Upon returning to Norway in 2015 he was appointed the head of the IMR research group for demersal fish, a position he held until 2020 when he transitioned to his current position in marine research in developing countries. 
+Since completing his PhD, Erik has become a internationally recognized leader in ecosystem-based marine management. He pioneered the development and implementation of ecosystem surveys in the Barents Sea through groundbreaking collaboration with Russian scientists from [PINRO](http://www.pinro.ru/), and has successfully transferred these innovative approaches to developing nations including Mozambique, Sudan, Kenya, and Vietnam through comprehensive surveys and capacity-building programs.
 
-Erik has also contributing to the development of ecosystem-based management and integrated ecosystem assessments of marine ecosystems as co-chair of the <a href="http://www.ices.dk/community/groups/Pages/WGINOSE.aspx"> ICES Working Group on intetgrated assessment of the North Sea (WGINOSE) </a>, and through research projects like the <a href="https://kystbarometeret.com/"> coastal barometer </a>. 
+### International Ocean Governance Pioneer
 
-After returning from the US in 2015 Erik headed the research group for Demersal fish at IMR, also leading the IMR strategic initiative on <a href="https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-en-2021-16"> 'Reduced Uncertainty in Stock Assessment </a>. 
+Erik played a pivotal role in developing Norway's world-renowned [Integrated Management plans](http://www.regjeringen.no/en/dep/kld/Selected-topics/department-for-marine-management-and-pol/havforvaltning/integrated-management-of-the-barents-sea.html?id=87148), beginning with the Barents Sea, followed by the Norwegian Sea and North Sea. This groundbreaking work in ecosystem-based marine spatial planning has garnered worldwide attention, leading to numerous invitations to present Norway's innovative planning approach at high-level scientific and governmental meetings, including the United Nations.
 
-Erik has held his current position in the <a href="https://www.hi.no/en/hi/forskning/research-groups-1/marine-research-in-developing-countries">  Sustainable Development Research Group </a> since 2020. Contributing to the <a href="https://www.fao.org/in-action/eaf-nansen/en/%3f"> EAF Nansen programme </a>, developing marine spatial plans in India, and working with <a href="https://www.norad.no/en/front/"> the Norwegian Agency For Development Cooperation (Norad) </a> to develop new bilateral projects in the global south are key tasks in Erik's current role. 
+### Scientific Leadership & Global Collaboration
 
+From 2009-2013, Erik served as elected chair of the [ICES](http://www.ices.dk/) Science Committee Steering Group on Human Interactions on the Ecosystem, and later co-chaired the ICES Working Group on Integrated Assessment of the North Sea (WGINOSE) from 2017-2021. He has chaired multiple international workshops on Marine Spatial Planning and serves as a trusted reviewer and advisor on ocean governance issues globally.
+
+## International Experience & Innovation
+
+During his tenure as visiting scientist at the [NOAA Northeast Fisheries Science Center](http://nefsc.noaa.gov/) in Woods Hole, Massachusetts (2013-2015), Erik advanced the scientific foundation, tools (including the [Atlantis](http://www.csiro.au/organisation-structure/divisions/marine--atmospheric-research/atlantis-ecosystem-model) ecosystem model), and methodologies for ecosystem-based management and marine spatial planning.
+
+From 2015-2020, as Head of the IMR Demersal Fish Research Group, Erik led the strategic initiative on [Reduced Uncertainty in Stock Assessment](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-en-2021-16), significantly improving fisheries science methodologies.
+
+## Current Global Leadership Role
+
+Since 2020, Erik has led the Sustainable Development Research Group, where he manages 22 international staff and oversees groundbreaking initiatives including:
+
+- **Principal Investigator** of the UN Ocean Decade Project **"ClimeFOOD"** (2023-2030), addressing climate impacts on marine food systems
+- **Contributor** to the [EAF Nansen Programme](https://www.fao.org/in-action/eaf-nansen/en/), advancing ecosystem approaches to fisheries in developing countries
+- **Lead** for Norway-India marine spatial planning collaboration, fostering South-South knowledge exchange
+- **Strategic Partnership Developer** with [the Norwegian Agency for Development Cooperation (Norad)](https://www.norad.no/en/front/) for innovative bilateral projects across the Global South
+
+## Recognition & Impact
+
+With 46+ peer-reviewed publications (h-index: 31) spanning marine mammal biology to ecosystem modeling and ocean governance, Erik's research has shaped international marine policy. He serves on the National Committee for the UN Ocean Decade and was a co-chair for the UN Ocean Decade Vision 2030 Working Group on "Sustainably Feed the Global Population" (2023-2024).
+
+Erik's multidisciplinary expertise and commitment to global sustainable development continue to drive transformative change in how we understand and manage our ocean resources for present and future generations.
 
  
 
@@ -36,7 +59,7 @@ Erik has held his current position in the <a href="https://www.hi.no/en/hi/forsk
 <li> Contributing to the running and dissemination of results from the <a href="https://www.fao.org/in-action/eaf-nansen/en/"> FAO EAF Nansen programme </a> </li>
 
 
-#### Ecosystem models 
+#### Ecosystem models
 <li> Exploring <a href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00064/full"> Future oceans under ocean acidification, changes in fishing and marine protection </a> </li>
 <li> "Future oceans" is now also a research topic at <a href="https://www.frontiersin.org/research-topics/8558/future-oceans-under-multiple-stressors-from-global-change-to-anthropogenic-impact"> Frontiers in Marine Science </a> </li>
 <li> Evaluting the <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146467"> performance of ecosystem models: Skill assessment of the Northeast US Atlantis model </a></li>
