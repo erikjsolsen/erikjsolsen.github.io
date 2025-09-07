@@ -1,10 +1,5 @@
-name: "Erik Olsen "
-description: "My first Jekyll site"
-
-url: "/ErikoWebPage"
-
-paginate: 10
-
-markdown: kramdown
-permalink: pretty
-highlighter: rouge
+title: Dr. Erik Olsen
+description:  Marine Scientist | Global Ocean Leader
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-tactile
